@@ -1,4 +1,4 @@
-# GPNPCI - Education Consultancy Prayagraj
+# GPNPCI - Education Consultancy in Prayagraj
 
 GPNPCI is your educational consultant in Prayagraj, guiding students on the roadmap to academic success.
 
